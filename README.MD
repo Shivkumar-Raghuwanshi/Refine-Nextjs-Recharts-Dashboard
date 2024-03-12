@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/L3Lzc66BHzs/maxresdefault.jpg)](https://www.youtube.com/watch?v=L3Lzc66BHzs)
+[![Watch the video](https://img.youtube.com/vi/L3Lzc66BHzs/maxresdefault.jpg)](https://www.youtube.com/embed/L3Lzc66BHzs?si=dkO23ZTz9wdiKQwc)
 
 # Dashboard Project
 

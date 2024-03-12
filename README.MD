@@ -39,8 +39,8 @@ The tech stack used in this project includes:
 
 1. **Clone the repository**
     ```
-    git clone https://github.com/yourusername/dashboard.git
-    cd dashboard
+    git clone https://github.com/Shivkumar-Raghuwanshi/Refine-Nextjs-Recharts-Dashboard.git
+    cd Refine-Nextjs-Recharts-Dashboard
     ```
 
 2. **Install dependencies**
@@ -59,12 +59,12 @@ If you have Docker installed, you can use our Docker image to run the applicatio
 
 1. **Pull the Docker image**
     ```
-    docker pull yourusername/dashboard
+    docker pull shivkumar56/dashboard
     ```
 
 2. **Run the Docker image**
     ```
-    docker run -p 3000:3000 yourusername/dashboard
+    docker run -p 3000:3000 shivkumar56/dashboard
     ```
 
 The application should now be running at `http://localhost:3000`.
@@ -78,14 +78,4 @@ This dashboard provides the following features:
 - User authentication and authorization
 - Responsive design
 
-## Contributing
 
-Contributions are welcome! Please read our Contributing Guide for more information.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-If you have any questions, feel free to open an issue or contact us directly.

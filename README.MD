@@ -1,3 +1,5 @@
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/L3Lzc66BHzs/0.jpg)](https://www.youtube.com/watch?v=L3Lzc66BHzs)
+
 # Dashboard Project
 
 ## Table of Contents

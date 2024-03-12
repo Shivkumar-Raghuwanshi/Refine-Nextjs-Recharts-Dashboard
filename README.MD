@@ -1,4 +1,5 @@
-Watch the Dashboard video by clicking on the thumbnail below:
+## Watch the Dashboard video by clicking on the thumbnail below:
+
 [![Watch the video](https://img.youtube.com/vi/L3Lzc66BHzs/maxresdefault.jpg)](https://www.youtube.com/embed/L3Lzc66BHzs?si=dkO23ZTz9wdiKQwc)
 
 # Dashboard Project

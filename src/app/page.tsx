@@ -1,13 +1,12 @@
 "use client";
 
 import { Suspense } from "react";
-
-import { WelcomePage } from "@refinedev/core";
+import Graph from "@components/dashboard/Graph";
 
 export default function IndexPage() {
   return (
     <Suspense>
-      <WelcomePage />
+      <Graph />
     </Suspense>
   );
 }

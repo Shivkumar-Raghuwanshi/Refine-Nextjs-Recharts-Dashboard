@@ -11,9 +11,6 @@
 3. Getting Started
 4. Docker Deployment
 5. Features
-6. Contributing
-7. License
-8. Contact
 
 ## Introduction
 

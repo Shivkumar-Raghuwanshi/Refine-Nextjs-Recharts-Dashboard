@@ -58,12 +58,12 @@ If you have Docker installed, you can use our Docker image to run the applicatio
 
 1. **Pull the Docker image**
     ```
-    docker pull shivkumar56/dashboard
+    
     ```
 
 2. **Run the Docker image**
     ```
-    docker run -p 3000:3000 shivkumar56/dashboard
+    
     ```
 
 The application should now be running at `http://localhost:3000`.

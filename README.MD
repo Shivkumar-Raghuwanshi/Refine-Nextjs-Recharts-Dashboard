@@ -1,3 +1,7 @@
+## Watch the Dashboard video by clicking on the thumbnail below:
+
+[![Watch the video](https://img.youtube.com/vi/L3Lzc66BHzs/maxresdefault.jpg)](https://www.youtube.com/embed/L3Lzc66BHzs?si=dkO23ZTz9wdiKQwc)
+
 # Dashboard Project
 
 ## Table of Contents
@@ -7,9 +11,6 @@
 3. Getting Started
 4. Docker Deployment
 5. Features
-6. Contributing
-7. License
-8. Contact
 
 ## Introduction
 
@@ -37,8 +38,8 @@ The tech stack used in this project includes:
 
 1. **Clone the repository**
     ```
-    git clone https://github.com/yourusername/dashboard.git
-    cd dashboard
+    git clone https://github.com/Shivkumar-Raghuwanshi/Refine-Nextjs-Recharts-Dashboard.git
+    cd Refine-Nextjs-Recharts-Dashboard
     ```
 
 2. **Install dependencies**
